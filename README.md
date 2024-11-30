@@ -18,7 +18,7 @@ A powerful text simplification tool that transforms complex text into clear, eas
 
 ## 🚀 Live Demo
 
-Try the app here: [Visionary App](your-streamlit-url-here)
+Try the app here: [Visionary App](https://visionary-kgjkfzxjfwjsdaxieyr7qr.streamlit.app/)
 
 ## 💻 Installation
 
